@@ -1,2 +1,2 @@
-# website-cureviah
+# cureviah
 This is my first website
